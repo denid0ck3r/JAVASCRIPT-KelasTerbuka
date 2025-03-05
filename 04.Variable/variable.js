@@ -37,3 +37,8 @@ gorengan ="Bala-bala"
 
 }
 console.log(gorengan)
+
+const TTL = "10 Juni 1989";
+console.log(TTL)
+// TTL = "11 Januari 1990" tidak bisa dieksekusi karena konstans
+// console.log(TTL)
